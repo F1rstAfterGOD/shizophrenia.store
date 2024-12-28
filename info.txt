@@ -1,0 +1,17 @@
+{
+        id: 2,
+        name: "Джинсы",
+        price: 1500,
+        images: ["images/jeans.jpg", "images/jeans_1.jpg", "images/jeans_2.jpg"],
+        description: "Демисезонные, 98% хлопок."
+    },
+    {
+        id: 3,
+        name: "Куртка",
+        price: 3000,
+        images: ["images/jacket.jpg", "images/jacket_1.jpg", "images/jacket_2.jpg"],
+        description: "Водонепроницаемая, 60% нейлон."
+    }
+
+    API_TOKEN = '7288194271:AAED0pZqVeVC6hBrwAxWQuVgeu9AAgmd5j4'
+CHAT_ID = '1108787032' 
