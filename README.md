@@ -1,0 +1,2 @@
+# shizophrenia.store
+shizophrenia
